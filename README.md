@@ -14,10 +14,10 @@ All of the programs above are open-source and provided by most of the Linux dist
 ![Schematic](shematic.png)
 
 # USBasp Wiring
-![USBasp wiring](8051 usbasp.png)
+![USBasp wiring](8051usbasp.png)
 
 # Arduino Wiring
-![Arduino wiring](8051 arduino.png)
+![Arduino wiring](8051arduino.png)
 
 
 
